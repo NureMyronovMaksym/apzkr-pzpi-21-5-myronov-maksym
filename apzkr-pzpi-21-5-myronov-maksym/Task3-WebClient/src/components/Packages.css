@@ -1,0 +1,10 @@
+.packages {
+    padding: 20px;
+  }
+  
+  .package-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
